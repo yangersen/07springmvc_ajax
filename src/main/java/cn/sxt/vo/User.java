@@ -13,7 +13,10 @@ public class User {
 		this.name = name;
 		this.age = age;
 	}
-
+	public String toString(){
+		String ret="id="+id+"	"+"name="+name+"	"+"age="+age+";";
+		return ret;
+	}
 	public int getId() {
 		return id;
 	}
