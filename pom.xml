@@ -6,7 +6,7 @@
 
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>springmvc_ajax</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <!-- 打包的机制，如pom,jar, maven-plugin, ejb, war, ear, rar, par，默认为jar -->
     <packaging>war</packaging>
